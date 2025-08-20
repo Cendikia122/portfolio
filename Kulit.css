@@ -1,0 +1,88 @@
+body {
+  background-color: #c779d0;
+  background: linear-gradient(#c779d0 0%, #4bc0c8 40%, #c779d0 100%);
+}
+.profile {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  margin-top: 90px;
+}
+.profileImage {
+  width: 200px;
+}
+
+.profile h4 {
+  color: white;
+}
+
+.profile h4 {
+  color: white;
+}
+
+.biodata {
+  background: linear-gradient(#ffffff 0%, #ffffff 60%, #ffffff00 100%);
+  padding-bottom: 200px;
+  padding-top: 50px;
+}
+
+.row {
+  padding: 0px 60px;
+}
+
+.card-img-top {
+  width: 60%;
+  border-radius: 10%;
+  margin: 0 auto;
+}
+
+.card {
+  padding: 1.5em 0.5em 0.5em;
+  text-align: center;
+  border-radius: 2em;
+  box-shadow: 0 5px 10px rgba(0, 0, 0, 0.2);
+}
+
+.card-title {
+  font-weight: bold;
+  font-size: 1.5em;
+}
+
+.btn-primary {
+  border-radius: 2em;
+  padding: 0.5em 1em;
+}
+
+.progress {
+  margin-bottom: 25px;
+  margin-left: 15px;
+  margin-right: 15px;
+}
+
+.card-title1 {
+  font-size: 1em;
+  font-weight: bold;
+}
+
+.tugas {
+  background: linear-gradient(#ffffff 0%, #ffffff 100%);
+  padding-bottom: 100px;
+}
+
+.footer {
+  padding-bottom: 0;
+}
+
+.watermark {
+  padding-top: 10px;
+  text-align: center;
+}
+
+.pugas {
+  width: 100%;
+}
+
+.kuasa {
+  width: 100%;
+}
